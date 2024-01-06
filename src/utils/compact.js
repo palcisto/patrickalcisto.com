@@ -1,5 +1,5 @@
 /**
- * compact() removes all falsey values from a passed array. ie. false, '', 0, null, undefined
+ * compact() removes all falsy values from a passed array. ie. false, '', 0, null, undefined
  * @param {Array} array
  */
 export default function compact(array) {
